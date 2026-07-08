@@ -139,7 +139,7 @@ Google Sheet 1
 
 ### Company Research Output
 
-(Add screenshot)
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/screenshots/02-ai-research-output.png.png)
 
 ### AI Cold Email
 
