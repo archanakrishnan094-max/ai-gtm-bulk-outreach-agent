@@ -195,6 +195,11 @@ AI Automation | GTM Engineering | Workflow Automation | AI Solutions
 
 LinkedIn: (www.linkedin.com/in/archana-krishnan-303bb681)
 
+# 📄 License
+
+This project is licensed under the MIT License.
+
+
 
 
 ---
