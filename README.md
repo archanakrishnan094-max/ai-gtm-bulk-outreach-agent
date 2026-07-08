@@ -147,7 +147,7 @@ Google Sheet 1
 
 ### Gmail Output
 
-(Add screenshot)
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/screenshots/04-gmail-sent-email.png.png)
 
 ### Google Sheet Research
 
