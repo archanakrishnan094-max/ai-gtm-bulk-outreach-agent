@@ -135,7 +135,7 @@ Google Sheet 1
 
 ### Workflow Overview
 
-(Add workflow screenshot)
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/screenshots/01-workflow-overview.png.png)
 
 ### Company Research Output
 
