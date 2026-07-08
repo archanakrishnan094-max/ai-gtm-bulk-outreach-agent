@@ -198,6 +198,7 @@ LinkedIn: (www.linkedin.com/in/archana-krishnan-303bb681)
 # 📄 License
 
 This project is licensed under the MIT License.
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/MIT%20LIcense/README.md)
 
 
 
