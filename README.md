@@ -26,51 +26,63 @@ The workflow performs company research, generates structured GTM insights using 
 
 ## Workflow Architecture
 
-Company Queue (Google Sheets)
+### AI GTM Bulk Outreach Automation Agent
 
-↓
+```
+🚀 Manual Trigger
+        │
+        ▼
+📄 Read Company Queue (Google Sheets)
+        │
+        ▼
+🔁 Loop Over Companies
+        │
+        ▼
+🌐 HTTP Request (Company Research)
+        │
+        ▼
+⏳ Wait (Rate Limiting)
+        │
+        ▼
+🤖 AI GTM Research Agent
+        │
+        ▼
+🛠️ Research JSON Parser (Code Node 1)
+        │
+        ├────────────► 📊 Google Sheets (Research Repository)
+        │
+        └────────────► ✉️ AI Personalized Email Generator
+                              │
+                              ▼
+                    🛠️ Email JSON Parser (Code Node 2)
+                         │                  │
+                         │                  └────────► 📧 Gmail
+                         │
+                         ▼
+                    🔀 Merge Research + Email
+                         ▲
+                         │
+               Research JSON Parser
+                  (Code Node 1)
+                         │
+                         ▼
+                📝 Google Sheets (Outreach History)
 
-Loop Over Companies
+```
 
-↓
+### Workflow Summary
 
-HTTP Request (Company Search)
-
-↓
-
-Wait (Rate Limiting)
-
-↓
-
-AI GTM Research Agent
-
-↓
-
-Research JSON Parser
-
-↓
-
-Google Sheets (Research Repository)
-
-↓
-
-AI Personalized Email Generator
-
-↓
-
-Email JSON Parser
-
-↓
-
-Merge Research + Email
-
-↓
-
-Gmail
-
-↓
-
-Google Sheets (Outreach History)
+1. Reads multiple companies from Google Sheets.
+2. Processes each company individually.
+3. Collects company information through an HTTP request.
+4. Uses AI to generate structured GTM research.
+5. Converts the research into structured JSON.
+6. Stores research in Google Sheets.
+7. Generates personalized cold emails using AI.
+8. Converts the email into structured JSON.
+9. Sends personalized emails through Gmail.
+10. Merges company research with email data.
+11. Logs the complete outreach history in Google Sheets.
 
 ---
 
