@@ -151,7 +151,7 @@ Google Sheet 1
 
 ### Google Sheet Research
 
-(Add screenshot)
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/screenshots/05-research-repository.png.png)
 
 ### Google Sheet Outreach Log
 
