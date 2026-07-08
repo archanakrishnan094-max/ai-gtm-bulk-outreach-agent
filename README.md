@@ -155,7 +155,7 @@ Google Sheet 1
 
 ### Google Sheet Outreach Log
 
-(Add screenshot)
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/screenshots/06-outreach-history.png.png)
 
 ---
 
