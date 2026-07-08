@@ -193,9 +193,9 @@ Google Sheet 1
 
 AI Automation | GTM Engineering | Workflow Automation | AI Solutions
 
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: (www.linkedin.com/in/archana-krishnan-303bb681)
 
-Portfolio: (Add your Portfolio URL)
+
 
 ---
 
