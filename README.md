@@ -143,7 +143,7 @@ Google Sheet 1
 
 ### AI Cold Email
 
-(Add screenshot)
+(https://github.com/archanakrishnan094-max/ai-gtm-bulk-outreach-agent/blob/main/screenshots/03-ai-email-generator-output.png.png)
 
 ### Gmail Output
 
